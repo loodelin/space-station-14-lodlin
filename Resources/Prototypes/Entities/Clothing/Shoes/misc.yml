@@ -54,7 +54,7 @@
   parent: ClothingShoesBaseButcherable
   id: ClothingShoeSlippersLizard
   name: lizard plushie slippers
-  description: A hastily-crafted yet adorable pair of slippers that resemble a lizardperson. It seems like the voicebox is missing.
+  description: An adorable pair of slippers that resemble a lizardperson. Combine this with some other green clothing and you'll be the coolest crewmember on the station!
   components:
   - type: Sprite
     sprite: Clothing/Shoes/Misc/lizard-slippers.rsi
